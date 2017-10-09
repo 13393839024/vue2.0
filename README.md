@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>实力练习</h1>
+    <h1>实例练习</h1>
     <hr>
     <div id="app">
         <ul>
